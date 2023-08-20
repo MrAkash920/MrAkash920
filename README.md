@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
-<h3 align="center">A passionate data analyst</h3>
+<h3 align="center">A passionate coder</h3>
 
 <p align="left"> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="mrakash920" /> </p>
 
@@ -31,7 +31,3 @@
   <img src="https://streak-stats.demolab.com?user=MrAkash920&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/MrAkash920/MrAkash920/output/snake.svg" alt="Snake animation" />
-
-###
