@@ -32,3 +32,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrakash920&show_icons=true&locale=en" alt="mrakash920" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrakash920&" alt="mrakash920" /></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MrAkash920/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/MrAkash920/MrAkash920/output/snake.svg" alt="Snake animation" />
+
+###
