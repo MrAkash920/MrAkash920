@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrakash920&label=Profile%20views&color=0e75b6&style=flat" alt="mrakash920" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrakash920" alt="mrakash920" /></a> </p>
-
 - 🔭 I’m currently working on [Data Science](https://github.com/MrAkash920/DataScience)
 
 - 🌱 I’m currently learning **NumPy, Pandas, Matplotlib, Tableau and Excel**
@@ -32,7 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrakash920&show_icons=true&locale=en" alt="mrakash920" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrakash920&" alt="mrakash920" /></p>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MrAkash920/count.svg?"  />
-</div>
-
