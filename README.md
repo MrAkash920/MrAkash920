@@ -36,8 +36,3 @@
   <img src="https://profile-counter.glitch.me/MrAkash920/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/MrAkash920/MrAkash920/output/snake.svg" alt="Snake animation" />
-
-###
