@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">A passionate data analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrakash920&label=Profile%20views&color=0e75b6&style=flat" alt="mrakash920" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mrakash920&label=Profile%20views&color=0e75b6&style=flat](https://cdnl.iconscout.com/lottie/premium/preview-watermark/back-end-developer-4098969-3428942.mp4?h=700)" alt="mrakash920" /> </p>
 
 - 🔭 I’m currently working on [Data Science](https://github.com/MrAkash920/DataScience)
 
