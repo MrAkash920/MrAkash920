@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Data Science](https://github.com/MrAkash920/DataScience)
 
-- 🌱 I’m currently learning **NumPy, Pandas, Matplotlib, Tableau and Excel**
+- 🌱 I’m currently learning **Machine Leaning, Deep Learing, Computer Vision, DevOps**
 
 - 🤝 I’m looking for help with [Data Science](https://github.com/MrAkash920/DataScience)
 
-- 💬 Ask me about **Python, Data Science**
+- 💬 Ask me about **Python, Data Science, Machine Learning**
 
 - 📫 How to reach me **singhakashcu@gmail.com**
 
@@ -27,11 +27,13 @@
 
 <h3 align="left">Most Used Languages:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAkash920&theme=radical&hide_border=true)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAkash920&theme=radical&hide_border=true)](https://github.com/MrKrishnaAgarwal/readme-components-github) 
 
 <h3 align="left">Github Stats:</h3>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAkash920&theme=radical&hide_border=true)](https://github.com/anuraghazra/readme-components)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAkash920&theme=radical&hide_border=true)](https://github.com/anuraghazra/readme-components) ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrAkash920&theme=radical&hide_border=true)
+
+
 
 <h3 align="left">Stats Graph:</h3>
 
