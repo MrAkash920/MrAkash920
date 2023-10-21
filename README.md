@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
-<h3 align="center">A passionate coder</h3>
+<h3 align="center"> 🚀 Data Engineer | Passionate about Turning Data into Insights</h3>
 
-<p align="left"> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="mrakash920" /> </p>
+<p align="center"> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="mrakash920" /> </p>
 
-- 🔭 I’m currently working on [Data Science](https://github.com/MrAkash920/DataScience)
+- 🌐 Designing data pipelines to collect, process, and transform data from various sources.
+- 📊 Developing scalable and efficient ETL (Extract, Transform, Load) processes.
+- 📈 Building data warehouses and data lakes for analytics and reporting.
+- 🤖 Leveraging machine learning and AI for data-driven decision-making.
+- 🛠️ Exploring emerging technologies and best practices in the data engineering field.
 
-- 🌱 I’m currently learning **Machine Leaning, Deep Learing, Computer Vision, DevOps**
-
-- 🤝 I’m looking for help with [Data Science](https://github.com/MrAkash920/DataScience)
-
-- 💬 Ask me about **Python, Data Science, Machine Learning**
-
-- 📫 How to reach me **singhakashcu@gmail.com**
-
-- ⚡ Fun fact **Code Wizardry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
