@@ -26,7 +26,7 @@
 
 <h3 align="left">Github Stats:</h3>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAkash920&theme=radical&hide_border=true)](https://github.com/anuraghazra/readme-components) ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrAkash920&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAkash920&show_icons=true&theme=radical&hide_border=true) ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrAkash920&theme=radical&hide_border=true)
 
 
 
