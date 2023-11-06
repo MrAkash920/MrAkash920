@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="mrakash920" /> </p>
 
-🌐 Designing data pipelines to collect, process, and transform data from various sources.
-📊 Developing scalable and efficient ETL (Extract, Transform, Load) processes.
-📈 Building data warehouses and data lakes for analytics and reporting.
-🤖 Leveraging machine learning and AI for data-driven decision-making.
-🛠️ Exploring emerging technologies and best practices in the data engineering field.
+- 🌐 Designing data pipelines to collect, process, and transform data from various sources.
+- 📊 Developing scalable and efficient ETL (Extract, Transform, Load) processes.
+- 📈 Building data warehouses and data lakes for analytics and reporting.
+- 🤖 Leveraging machine learning and AI for data-driven decision-making.
+- 🛠️ Exploring emerging technologies and best practices in the data engineering field.
 
 
 <h3 align="left">Connect with me:</h3>
